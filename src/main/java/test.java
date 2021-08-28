@@ -9,5 +9,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("你好 小笨蛋");
         System.out.println("master");
+        System.out.println("hotfix");
     }
 }
